@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3i0021/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 品茶要錄
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:17:54.453957'
+  source:
+    repository: kanripo
+    path: KR3i0021/KR3i0021_000.txt
+hash: sha256:b83e7936257de1c5e6ea8d38b0d556ae0bddbe88db3b5db2626e2a90aeed727e

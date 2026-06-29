@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3i0021/krp/v1/juan/2
+seq: 2
+front:
+  text: 書黃道輔品茶要録後
+  hash: sha256:73e0b322cf65e994299781529d56ba473761f375a881bcccfbb53800400d96b4
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3i0021_WYG_002-1a}
+body:
+  text: 眉山蘇軾書物有畛而理無方窮天下之辨不足以盡一物之理逹者寓物以發其辨則一物之變可以盡南山之竹學者觀物之極而游於物之表則何求而不得故輪扁行年七十而老於斫輪庖丁自技而進乎道由此其選也黃君道輔諱儒建安人博學能文淡然精深有道之士也作品茶要録十篇委曲微妙皆陸鴻漸以來論茶者所未及非至靜無求虛中不留烏能察物之情如此其詳哉昔張機有精理而韻不能髙故卒為名醫今道輔無所發其辨而寓之於茶為世外淡泊之好此以髙韻輔精理者豫悲其不幸早亡獨此書傳於世故發其篇末云
+  hash: sha256:911b91fef6ff7bf08a103eb50deae013f9381a66e7329b006b79c8104893bb84
+metadata:
+  title: 品茶要錄
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:17:54.453957'
+  juan_title: 書黄道輔品茶要錄後
+  source:
+    repository: kanripo
+    path: KR3i0021/KR3i0021_002.txt
+hash: sha256:ca2055091749221b5baa4570bba71688dc203f2b4cc1b9fa525081dd84502cb3

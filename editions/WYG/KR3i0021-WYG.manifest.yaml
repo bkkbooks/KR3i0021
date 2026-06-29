@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR3i0021/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3i0021/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 品茶要錄
+  date: '2015-08-24 23:17:54.453957'
+  source:
+    repository: kanripo
+    path: KR3i0021
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3i0021_000-WYG.yaml, hash: 'sha256:37cad8cf2c1d87c18fe3c0171b52c7a078a781f1d08e3ee952007447c856eca8'}
+  - {seq: 1, filename: KR3i0021_001-WYG.yaml, hash: 'sha256:4abffeb27f753392ac30d136158184566f703fb0be15813521f58c004fe17144'}
+  - {seq: 2, filename: KR3i0021_002-WYG.yaml, hash: 'sha256:2938342ed960a2ea3f89af2ff3168848c1c3461ef1ddd925cf72ef95a0ce37c3'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3i0021_001-WYG.markers.yaml, hash: 'sha256:a26ebb8b4bb921182dde84954b24cf0822ba902e92cf676f837c131fdacf5923'}
+  - {seq: 2, role: markers, filename: assets/KR3i0021_002-WYG.markers.yaml, hash: 'sha256:70e53f9eb30d3177662a473d55dfd6da9b5d7af364eee319388684a8aece68fe'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3i0021_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 1830
+  label: 品茶要錄
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3i0021_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 216
+  label: 書黄道輔品茶要錄後
+  type: section
+  level: 1
+hash: sha256:c9abdcbcb2ea44b955b35a88ab4801b513388fa9fb977eb54541db74c5eb45a0
