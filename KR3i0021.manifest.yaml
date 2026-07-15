@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3i0021/v1
 canonical_location: https://kanripo.org/bkk/KR3i0021/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 品茶要錄
   date: '2015-08-24 23:17:54.453957'
@@ -21,11 +21,11 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR3i0021_000.yaml, hash: 'sha256:b83e7936257de1c5e6ea8d38b0d556ae0bddbe88db3b5db2626e2a90aeed727e'}
-  - {seq: 1, filename: KR3i0021_001.yaml, hash: 'sha256:a05fec357206fc30ffd3a5d8941b7e475227780f81ebd5062f66bb84918e2a14'}
-  - {seq: 2, filename: KR3i0021_002.yaml, hash: 'sha256:3e896c9d8ab67d3e9e507b21d718500eb528b85c863593b3a4bc72d5515b3099'}
+  - {seq: 1, filename: KR3i0021_001.yaml, hash: 'sha256:7d0373f919a7117bee5e800e09ee8fc3093556c0d9c85304ec712c755aeefc13'}
+  - {seq: 2, filename: KR3i0021_002.yaml, hash: 'sha256:c43a95bafe7badf780175fdbd270249cce1e4ed70f5ed93aa24035e7a2fe6c4e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3i0021_001.markers.yaml, hash: 'sha256:9cc92d0af1215e8d6b627055f1d7b6536e29b06b6fa828689697b258e05fe707'}
-  - {seq: 2, role: markers, filename: assets/KR3i0021_002.markers.yaml, hash: 'sha256:de8fdd8687a66adb21d5dfbfd555755a327fcb0e17223bd58ff5cbecc575d8e9'}
+  - {seq: 1, role: markers, filename: assets/KR3i0021_001.markers.yaml, hash: 'sha256:828134d2d93dd7346d46d913a38e1086200fd0602ce3542a0b375fe309c890f2'}
+  - {seq: 2, role: markers, filename: assets/KR3i0021_002.markers.yaml, hash: 'sha256:2880b381e17410e0b331aee832cd8ef00b47d0b7c8604f06b39d9b208b954209'}
 table_of_contents:
 - ref:
     seq: 1
@@ -47,4 +47,7 @@ table_of_contents:
   label: 書黄道輔品茶要錄後
   type: section
   level: 1
-hash: sha256:070eed5d7f8dfc3366256fd9d2f0d89f547b2cca60faf08c50ef4042ded11d86
+hash: sha256:5caa0b4a3fd623ff504b58ee107170343f00d3075deefe2b02fad42f2c517b06
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
