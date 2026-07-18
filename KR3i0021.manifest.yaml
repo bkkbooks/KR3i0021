@@ -24,7 +24,7 @@ assets:
   - {seq: 1, filename: KR3i0021_001.yaml, hash: 'sha256:7d0373f919a7117bee5e800e09ee8fc3093556c0d9c85304ec712c755aeefc13'}
   - {seq: 2, filename: KR3i0021_002.yaml, hash: 'sha256:c43a95bafe7badf780175fdbd270249cce1e4ed70f5ed93aa24035e7a2fe6c4e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3i0021_001.markers.yaml, hash: 'sha256:828134d2d93dd7346d46d913a38e1086200fd0602ce3542a0b375fe309c890f2'}
+  - {seq: 1, role: markers, filename: assets/KR3i0021_001.markers.yaml, hash: 'sha256:47218f3afbe1876bc17056cb5caa6b4b1f368814a12d95e1fa3edfa40b2d1c3b'}
   - {seq: 2, role: markers, filename: assets/KR3i0021_002.markers.yaml, hash: 'sha256:2880b381e17410e0b331aee832cd8ef00b47d0b7c8604f06b39d9b208b954209'}
 table_of_contents:
 - ref:
@@ -47,7 +47,7 @@ table_of_contents:
   label: 書黄道輔品茶要錄後
   type: section
   level: 1
-hash: sha256:5caa0b4a3fd623ff504b58ee107170343f00d3075deefe2b02fad42f2c517b06
+hash: sha256:532ec39928ff7ee6b04e196918fecbadac21f5860142519ff85101a2ceccf325
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
